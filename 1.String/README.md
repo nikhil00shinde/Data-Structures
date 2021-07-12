@@ -26,9 +26,16 @@
       * String s1 = "hello";
       * String s2 = new String("hello);
       * String s3 = s1 + s2; *(O(m+n))*
+      * char[] ch={'j','a','v','a','t','p','o','i','n','t'};  ***String s=new String(ch);*** 
 * String memory is created inside intern pool that is heap part.
 * The content will be always in intern pool memory part (InString Case)
 * but when we use *new* keyword (reference heap mei banega & content intern pool mei banega).
-
 * STRING + INT -> STRING
 * "hello" + 100 -> "hello100"
+
+* Why Java uses the concept of String literal?
+   * To make Java more memory efficient (because no new objects are created if it exists already in the string constant pool). 
+
+***
+
+# StringBuilder
