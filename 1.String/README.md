@@ -39,3 +39,13 @@
 ***
 
 # StringBuilder
+* To resolve mutability & appending, we use string builder
+* Syntax: *StringBuilder sb = new StringBuilder("hello");*
+* Functions: 
+     * *sb.setCharAt(index,char);*//we can set a character 
+     * *sb.append("world");*
+     * *sb.charAt(index);*
+     * *sb.insert(5,'a');* //to insert a char in between 
+     * *sb.deleteCharAt(5);*
+     * *sb.substring(incl,excl);*
+     * *sb.length();*
