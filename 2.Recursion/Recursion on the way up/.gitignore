@@ -2,3 +2,4 @@ PrintSubsequence.class
 PrintKPC.class
 PrintStairPaths.class
 PrintMazePaths.class
+PrintMazePathsWithJumps.class
