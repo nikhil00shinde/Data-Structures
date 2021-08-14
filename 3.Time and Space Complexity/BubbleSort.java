@@ -1,3 +1,9 @@
+// Buuble Sort 
+     //1. Adjacent Element comparison
+     //2. Array piche se sort ho raha hota hain
+     //3. Comparison -> n-i (i start from 1)
+   
+
 import java.util.*;
 
 public class BubbleSort
