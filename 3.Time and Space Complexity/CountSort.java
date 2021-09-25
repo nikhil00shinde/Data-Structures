@@ -1,6 +1,9 @@
 // The main to remember in count sort is that it do stable sort and contain array of prefix sum of last index of array.
 // What is stable sort -> stable sort is that jab koi do(2) value same, jo pehli aayi ho value voh hi pehle aani chahiye hamare ans array me 
 
+// To preserve the relative order that is stable sort
+
+// We apply count jab value bohot jyada ho and range kam ho
 import java.util.*;
 
 import java.io.*;

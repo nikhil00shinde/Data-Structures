@@ -10,3 +10,4 @@ PartitionArray.class
 QuickSort.class
 QuickSelect.class
 CountSort.class
+RadixSort.class
