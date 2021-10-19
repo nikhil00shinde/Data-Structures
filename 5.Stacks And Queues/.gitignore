@@ -7,3 +7,5 @@ SlidingWindowMaximum.class
 CelebrityProblem.class
 InfixEvaluation.class
 InfixConversion.class
+PostfixEvaluation.class
+PrefixEvaluation.class
