@@ -9,3 +9,7 @@ InfixEvaluation.class
 InfixConversion.class
 PostfixEvaluation.class
 PrefixEvaluation.class
+NormalStack.class
+NormalStack$CustomStack.class
+DynamicStack.class
+DynamicStack$CustomStack.class
