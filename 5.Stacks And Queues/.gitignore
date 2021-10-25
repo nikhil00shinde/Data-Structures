@@ -17,3 +17,5 @@ MinimumStack.class
 MinimumStack$MinStack.class
 MinimumStackCSpace.class
 MinimumStackCSpace$MinStack.class
+MergeOverlappingInterval.class
+MergeOverlappingInterval$Interval.class
