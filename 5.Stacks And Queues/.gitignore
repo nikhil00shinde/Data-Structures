@@ -13,3 +13,7 @@ NormalStack.class
 NormalStack$CustomStack.class
 DynamicStack.class
 DynamicStack$CustomStack.class
+MinimumStack.class
+MinimumStack$MinStack.class
+MinimumStackCSpace.class
+MinimumStackCSpace$MinStack.class
