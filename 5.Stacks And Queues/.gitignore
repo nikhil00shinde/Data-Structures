@@ -19,3 +19,6 @@ MinimumStackCSpace.class
 MinimumStackCSpace$MinStack.class
 MergeOverlappingInterval.class
 MergeOverlappingInterval$Interval.class
+SmallestNumberFollowingPattern.class
+QueueToStackAdapterPushEfficient.class
+QueueToStackAdapterPushEfficient$QueueToStackAdapter.class
