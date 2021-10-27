@@ -112,7 +112,7 @@ public class Main {
             tail = nn;
             size++;
         }
-        else
+        else if(idx > 0 && idx < size)
         {
            Node temp = head;
 
