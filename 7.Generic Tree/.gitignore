@@ -2,3 +2,5 @@ GenericTreeDemo.class
 GenericTreeDemo$Node.class
 SizeGenericTree.class
 SizeGenericTree$Node.class
+GenericTreePrePost.class
+GenericTreePrePost$Node.class
