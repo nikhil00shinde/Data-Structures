@@ -4,3 +4,5 @@ SizeGenericTree.class
 SizeGenericTree$Node.class
 GenericTreePrePost.class
 GenericTreePrePost$Node.class
+LevelOrderOfGenericTree.class
+LevelOrderOfGenericTree$Node.class
